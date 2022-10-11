@@ -1,0 +1,66 @@
+* {
+  list-style-type: none;
+  font-family: 'Open Sans';
+}
+
+.font-domine {
+  font-family: 'Domine';
+}
+
+.custom-width {
+  width: 7rem;
+}
+
+.gradient {
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link:hover {
+  color: #0d99e6 !important;
+}
+
+@media (max-width: 768px) {
+  .companies img {
+    max-width: 30% !important;
+  }
+}
+
+#climate-change-links a {
+  text-decoration: none;
+  color: white;
+}
+
+#climate-change-links a:hover {
+  color: gainsboro;
+}
+
+.gallery {
+  background-color: whitesmoke;
+}
+
+.gallery img {
+  border-radius: 5px;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.gallery img:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.footer-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: #fec007;
+}
+/*# sourceMappingURL=style.css.map */
