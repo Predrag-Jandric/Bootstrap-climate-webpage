@@ -58,3 +58,11 @@
     }
 }
 
+.footer-links a {
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+        color: #fec007;
+    } 
+}
