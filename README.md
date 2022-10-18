@@ -5,7 +5,7 @@
 
 ## Welcome! 👋
 
-This is a practice medium-size project that I've have designed and built using Bootstrap and a little bit of Sass. Through this project I am trying to understand and practice Bootstrap as well as Sass combined with it.
+This is a practice medium-size project that I have designed and built using Bootstrap and a little bit of Sass. Through this project, I am trying to understand and practice Bootstrap as well as Sass combined with it.
 
 ### Languages and features 👨‍💻 
 
