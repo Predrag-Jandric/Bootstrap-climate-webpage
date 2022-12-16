@@ -1,10 +1,10 @@
 * {
   list-style-type: none;
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
 }
 
 .font-domine {
-  font-family: 'Domine';
+  font-family: "Domine";
 }
 
 .custom-width {
@@ -19,7 +19,6 @@
 .nav-link {
   color: black !important;
 }
-
 .nav-link:hover {
   color: #0d99e6 !important;
 }
@@ -34,7 +33,6 @@
   text-decoration: none;
   color: white;
 }
-
 #climate-change-links a:hover {
   color: gainsboro;
 }
@@ -42,25 +40,26 @@
 .gallery {
   background-color: whitesmoke;
 }
-
 .gallery img {
   border-radius: 5px;
-  -webkit-transition: 0.2s ease-in-out;
   transition: 0.2s ease-in-out;
   cursor: pointer;
 }
-
 .gallery img:hover {
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .footer-links a {
   color: white;
   text-decoration: none;
 }
-
 .footer-links a:hover {
   color: #fec007;
 }
+
+.xxx {
+  background-color: red;
+  margin: 3rem 0;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -20,7 +20,7 @@
 }
 
 
-// actual code
+// actual code starts here
 .nav-link {
     color: black !important;
 
@@ -65,4 +65,9 @@
     &:hover {
         color: #fec007;
     } 
+}
+
+.xxx {
+    background-color: red;
+    margin: 3rem 0;
 }
